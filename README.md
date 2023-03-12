@@ -46,6 +46,7 @@ Here's an example of you can display the edited SVG in WordPress:
 			max-width: 100%;
 			height: auto;
 			border: 1px solid grey;
+            object-fit: contain;
 		}
     </style>
 </head>
