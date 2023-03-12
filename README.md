@@ -2,13 +2,25 @@
 
 Here's an example of you can display the edited SVG in WordPress:
 
+* Save the SVG file to your computer.
+
+* Log in to your WordPress admin panel and navigate to the page or post where you want to add the map.
+
+* Click on the "Add Media" button to upload the SVG file.
+
+* Drag and drop the SVG file into the media uploader, or click the "Select Files" button to choose the file from your computer.
+
+* Once the file is uploaded, click on it to open the "Attachment Details" panel.
+
+* In the "Attachment Details" panel, copy the "File URL" or "Image URL" for the SVG file.
+
 ```html
 <object data="path/to/usa-labels-full.svg" type="image/svg+xml" id="map">
 	Your browser does not support SVG
 </object>
 ```
 
-* Replace "path/to/your/usa-labels-full.svg" with the correct file path of the edited SVG file (usa-labels-full.svg).
+* Replace "path/to/your/usa-labels-full.svg" with the correct file path or URL of the edited SVG file which you uploaded (usa-labels-full.svg).
 
 * To add the SVG to WordPress, follow these steps:
 
