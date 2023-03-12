@@ -18,11 +18,15 @@
   <style
      id="style172">
         #WI:hover, #IL:hover, #IN:hover, #OH:hover, #KY:hover, #MO:hover {
-            fill: #f00 !important;
+            fill: #85C1E9 !important;
             transition: fill 0.2s;
         }
         a {
             cursor : pointer;
+        }
+        #WI, #IL, #IN, #OH, #KY, #MO {
+            fill: #D7BDE2 !important;
+            transition: fill 0.2s;
         }
    </style>
   <metadata

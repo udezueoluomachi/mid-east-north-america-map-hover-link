@@ -33,7 +33,7 @@ Here's an example of you can display the edited SVG in WordPress:
 		#map {
 			max-width: 100%;
 			height: auto;
-			border: 1px solid black;
+			border: 1px solid grey;
 		}
     </style>
 </head>
@@ -47,6 +47,10 @@ Here's an example of you can display the edited SVG in WordPress:
 ```
 
 * Save or publish the post or page.
+
+## Note
+
+* The section of the map clicked opens the link in a new tab
 
 This code will display the edited SVG map in the post or page, with the CSS styles applied. The "object" tag is used to embed the SVG file in the HTML code, and the "type" attribute specifies the MIME type of the file. The "id" attribute can be used to apply additional styles or scripts to the SVG object if needed.
 
