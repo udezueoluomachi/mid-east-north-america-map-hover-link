@@ -43,7 +43,7 @@ Here's an example of you can display the edited SVG in WordPress:
     <!--you should style the object map container-->
     <style>
 		#map {
-			width: 100%;
+			width: max-content;
 			height: max-content;
 			border: 1px solid grey;
             object-fit: contain;
