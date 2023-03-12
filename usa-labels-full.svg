@@ -21,6 +21,9 @@
             fill: #f00 !important;
             transition: fill 0.2s;
         }
+        a {
+            cursor : pointer;
+        }
    </style>
   <metadata
      id="metadata62">
