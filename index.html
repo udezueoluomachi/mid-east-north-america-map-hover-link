@@ -6,15 +6,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-		#map {
+        div.map-container {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            object-fit: contain;
+        }
+		object#map {
 			width: max-content;
 			height: max-content;
-			border: 1px solid grey;
             object-fit: contain;
 		}
+        @media only screen and (max-width:600px) {
+            object#map {
+                transform: scale(0.8);
+                transform-origin: top left;
+                width: auto;
+                height: 100%;
+            }
+        }
     </style>
 </head>
 <body>
-    <object id="map" alt="MAP" data="./usa-labels-full.svg" type="image/svg+xml"></object>
+    <div class="map-container">
+        <object id="map" alt="MAP" data="./usa-labels-full.svg" type="image/svg+xml"></object>
+    </div>
 </body>
 </html>
