@@ -18,14 +18,14 @@
   <style
      id="style172">
         #WI:hover, #IL:hover, #IN:hover, #OH:hover, #KY:hover, #MO:hover {
-            fill: #85C1E9 !important;
+            fill: #d20000 !important;
             transition: fill 0.2s;
         }
         a {
             cursor : pointer;
         }
         #WI, #IL, #IN, #OH, #KY, #MO {
-            fill: #D7BDE2 !important;
+            fill: #000000 !important;
             transition: fill 0.2s;
         }
    </style>
@@ -157,7 +157,7 @@
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </a>
     <a
-       href="https://google.com/search?q=WINCOSIN"
+       href="https://midwest-equipment.com/"
        target="/blank"
        id="a91"
        transform="translate(-37.632169,-29.792134)"
@@ -189,7 +189,7 @@
        d="m 242.7498,292.29253 -3.97988,0.7167 -5.11215,-0.63403 0.4207,-1.60207 2.97975,-2.56669 0.94338,-3.65625 -1.82898,-2.9721 -78.41757,2.51485 1.60036,6.85869 -1e-5,8.23042 1.37175,10.97399 0.22862,37.83693 2.28623,1.94329 2.97209,-1.37173 2.74348,1.14311 0.68034,6.5733 55.62126,-1.1406 1.14563,-2.09037 -0.28662,-3.54951 -1.82563,-2.9721 1.59869,-1.48521 -1.59869,-2.5115 0.6842,-2.50983 1.36839,-5.60543 2.51819,-2.06263 -0.68587,-2.28456 3.65797,-5.37179 2.74347,-1.36839 -0.11348,-1.49358 -0.34544,-1.82564 2.85695,-5.59873 2.40304,-1.25659 0.38413,-3.42763 1.77067,-1.2417 -3.14352,-0.48427 -1.34146,-4.01044 2.80408,-2.37671 0.55026,-2.0192 1.27948,-4.04661 z"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
     <a
-       href="https://google.com/search?q=Missouri"
+       href="https://www.autotechsystemsmw.com/"
        target="/blank"
        id="a98"
        transform="translate(-37.632169,-29.792134)"
